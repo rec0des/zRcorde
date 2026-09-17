@@ -23,6 +23,6 @@ Support new projects
 AI models, APIs and infrastructure have ongoing costs. Every contribution helps me maintain existing projects and bring new ideas to life.
 
 ☕ Support me on Buy Me a Coffee
-buymeacoffee.com/re_code
+www.buymeacoffee.com/re_code
 
 Thank you for your support and for following my journey.
