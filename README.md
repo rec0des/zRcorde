@@ -17,11 +17,6 @@ TypeScript · JavaScript · Node.js · React · Cloudflare Workers · Supabase �
 My journey
 Every project represents a new step: identifying a problem, designing a solution, launching it, learning from real-world use and improving it. I share that ongoing journey of learning, experimentation and building here.
 
-Portfolio
-Explore my work at www.rewebfolio.xyz.
-Support new projects
-AI models, APIs and infrastructure have ongoing costs. Every contribution helps me maintain existing projects and bring new ideas to life.
-
 ☕ Support me on Buy Me a Coffee
 www.buymeacoffee.com/re_code
 
