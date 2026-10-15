@@ -21,4 +21,7 @@ Every project represents a new step: identifying a problem, designing a solution
 ☕ Support me:
 https://ko-fi.com/recodes
 
+SOLANA:
+6mnkQEQszNgkje7UR5qwiyhg5bLD1W9yTQKyruGMQ72d
+
 Thank you for your support and for following my journey.
