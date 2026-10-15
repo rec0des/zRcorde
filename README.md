@@ -1,4 +1,4 @@
-# Re. Code @ Rennan Garcia
+# Re. Code @ R. Garcia
 
 Full-Stack Developer · Cloud Engineer · AI & Automation
 I turn ideas into functional digital products by combining full-stack development, cloud infrastructure, APIs, artificial intelligence and automation.
